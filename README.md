@@ -1,16 +1,18 @@
-Hi there 👋, I'm Raghu Vemuluri  
+# Hi there 👋, I'm Raghu Vemuluri  
+
+<img src="https://avatars.githubusercontent.com/u/00000000?v=4" alt="Profile Photo" width="150" style="border-radius:50%;" align="right" />
 
 🚀 **Aspiring Full Stack Developer | Problem Solver | Lifelong Learner**  
 
 ---
 
 ## 👨‍💻 About Me
-- 🔭 I’m currently working on **JavaScript, React, and Full Stack Development**  
+- 🔭 Currently working on **JavaScript, React, and Full Stack Development**  
 - 🌱 Learning **Data Structures, Algorithms, and System Design**  
-- 👯 Looking to collaborate on **Open Source Projects**  
+- 👯 Open to collaborating on **Open Source & Innovative Projects**  
 - 💬 Ask me about **JavaScript, React, Git, or Web Development**  
 - 📫 Reach me at: **your.email@example.com**  
-- ⚡ Fun fact: *I love solving logical problems in JS!*  
+- ⚡ Fun fact: *I believe logical thinking turns problems into opportunities*  
 
 ---
 
@@ -34,10 +36,10 @@ Hi there 👋, I'm Raghu Vemuluri
 
 ---
 
-## 🚀 Projects
-- 🎯 **Sports University Website** – Built with React & CSS Modules  
-- 🎯 **Portfolio Website** – Single-page portfolio with modern UI  
-- 🎯 **Event Registration System** – With UPI-like payment flow  
+## 🚀 Featured Projects
+- 🎯 **Sports University Website** – React & CSS Modules with sports events, coaches & achievements  
+- 🎯 **Portfolio Website** – Single-page portfolio with modern UI and dark theme  
+- 🎯 **Event Registration System** – Simulated UPI-like payment flow with backend integration  
 
 ---
 
@@ -47,4 +49,5 @@ Hi there 👋, I'm Raghu Vemuluri
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)  
 
 ---
+
 ✨ *“Code is like humor. When you have to explain it, it’s bad.”*  
